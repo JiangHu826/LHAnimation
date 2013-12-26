@@ -1,25 +1,8 @@
-//
-//  ViewController.m
-//  LHAnimation
-//
-//  Created by LiHong on 13-12-26.
-//  Copyright (c) 2013年 李红(410139419@qq.com). All rights reserved.
-//
 
-#import "ViewController.h"
-#import "UIView+LHAnimation.h"
-
-@interface ViewController ()
-
-@end
-
-@implementation ViewController
-
-- (void)viewDidLoad
-{
-    [super viewDidLoad];
-	
-    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+#使用方法 
+----------
+```objective-c
+  UIView *view = [[UIView alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
     view.backgroundColor = [UIColor redColor];
     [self.view addSubview:view];
     
@@ -41,14 +24,4 @@
     [queue pushAction:translation2];
     
     [view runAction:queue];
-
-
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
-@end
+```

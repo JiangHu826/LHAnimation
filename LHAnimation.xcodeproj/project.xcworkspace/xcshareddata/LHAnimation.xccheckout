@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EFE8BBC8-347F-47D9-8AF2-84B3FF79D7D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LHAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>825F4F0C-A211-4D0F-A311-075D47AF4AA6</key>
+		<string>https://github.com/JiangHu826/LHAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LHAnimation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>825F4F0C-A211-4D0F-A311-075D47AF4AA6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JiangHu826/LHAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>825F4F0C-A211-4D0F-A311-075D47AF4AA6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>825F4F0C-A211-4D0F-A311-075D47AF4AA6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LHAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
